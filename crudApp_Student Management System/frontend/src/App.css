@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width: 99%;
+}
+.App h1{
+  font-family: monospace;
+  margin: 20px 0px;
+}
+.my-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.icon{
+  cursor: pointer;
+  column-gap: 20px;
+  display: flex;
+  justify-content: center;
+}
